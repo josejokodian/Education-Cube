@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_fb"
+        android:icon="@drawable/ic_fb"
+        android:title="@string/title_home"
+        />
+
+    <item
+        android:id="@+id/navigation_tw"
+        android:icon="@drawable/ic_twitter"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_you"
+        android:icon="@drawable/ic_youtube"
+        android:title="@string/title_links" />
+    <item
+        android:id="@+id/navigation_in"
+        android:icon="@drawable/ic_linkedin"
+        android:title="@string/title_livechat" />
+
+</menu>
